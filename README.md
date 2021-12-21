@@ -35,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcilingir" />
 </a>
 <a href="https://github.com/sametcilingir/sametcilingir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sametcilingir" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sametcilingir" alt="Samet's GitHub Stats" />
 </a>
 
 
