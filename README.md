@@ -1,5 +1,6 @@
 ### Hi there, I'm Samet 👋 
 
+- 👨‍🏫 I’m 2nd year Industrial engineering student in Kocaeli University
 - 📱 I’m currently learning mobile development
 - 🙋‍♂️ I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Improve myself 
