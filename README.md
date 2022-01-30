@@ -1,3 +1,5 @@
+ <img src="https://lh3.googleusercontent.com/G-RE5DvpyN6-7ANcc3Tmiy4ZxrbPKeh4G8vXitVXhPJppvbB1FfrYNMxtd68GFwJgRIkCBVakRp6kHTTINIg=w1920-h1003" alt="dart" width="1000" height="600"/>  
+ 
 ### Hi there, I'm Samet 👋 
 
 - 👨‍🏫 I’m 2nd year Industrial engineering student in Kocaeli University
