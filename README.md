@@ -13,7 +13,7 @@
 - [Flutter Festival Turkey Day 2 "Flying High With MVVM & GetIt & MobX"](https://youtu.be/WdV0uUC-eTw?t=16206)
 - [Flying High With MVVM & GetIt & MobX](https://docs.google.com/presentation/d/1EPxPekEA2-5JOMZxt9NtbLcIOuSmWFrw_H5oW_n-IQo/edit?usp=sharing)
 
-### My articles
+### My Articles
 
 - [Flying High With Design Pattern & Dependency Injection & State Management (EN)](https://medium.com/flutter-community/flying-high-with-design-pattern-dependency-injection-state-management-f001f584512f)
 - [Design Pattern & MVVM İle Yukarılara Uçuş — Part 1 (TR)](https://medium.com/flutter-students-club/design-pattern-mvvm-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-1-338e68cc1040)
