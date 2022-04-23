@@ -7,6 +7,21 @@
 - 🙋‍♂️ I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Improve myself 
 - ⚡ Fun fact: I love cinema 
+- 
+### My Presentations & Speeches
+
+- [Flutter Festival Turkey Day 2 "Flying High With MVVM & GetIt & MobX"](https://youtu.be/WdV0uUC-eTw?t=16206)
+- [Flying High With MVVM & GetIt & MobX](https://docs.google.com/presentation/d/1EPxPekEA2-5JOMZxt9NtbLcIOuSmWFrw_H5oW_n-IQo/edit?usp=sharing)
+
+### My articles
+
+- [Flying High With Design Pattern & Dependency Injection & State Management (EN)](https://medium.com/flutter-community/flying-high-with-design-pattern-dependency-injection-state-management-f001f584512f)
+- [Design Pattern & MVVM İle Yukarılara Uçuş — Part 1 (TR)](https://medium.com/flutter-students-club/design-pattern-mvvm-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-1-338e68cc1040)
+- [Dependency Injection & GetIt İle Yukarılara Uçuş — Part 2 (TR)](https://medium.com/flutter-students-club/dependency-injection-getit-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-2-e12fdb90907b)
+- [State Management & MobX İle Yukarılara Uçuş — Part 3 (TR)](https://medium.com/flutter-students-club/state-management-mobx-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-3-662374a0db27)
+- [MVVM & MobX & GetIt İle Yukarılara Uçuş — Part 4 (TR)](https://medium.com/flutter-students-club/mvvm-mobx-getit-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-4-eb9e74bfbad9)
+ 
+
 
 ### Connect with me:
 
