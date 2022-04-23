@@ -7,7 +7,7 @@
 - 🙋‍♂️ I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Improve myself 
 - ⚡ Fun fact: I love cinema 
-- 
+
 ### My Presentations & Speeches
 
 - [Flutter Festival Turkey Day 2 "Flying High With MVVM & GetIt & MobX"](https://youtu.be/WdV0uUC-eTw?t=16206)
