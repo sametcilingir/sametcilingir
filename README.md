@@ -5,10 +5,10 @@
 ![spider](https://media.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif) 
 
 
-- 👨‍🏫 I’m 2nd year Industrial engineering student in Kocaeli University
-- 📱 I’m currently learning cross platform development
+- 👨‍🏫 I’m a 4th-year Industrial engineering student at Kocaeli University
+- 📱 I’m currently learning mobile development
 - 🙋‍♂️ I’m looking to collaborate with other developers
-- ⚡ Fun fact: I love marvel 
+- ⚡ Fun fact: I love Marvel 
 
 ### Languages and Tools:
 
@@ -34,11 +34,6 @@
 - [MVVM & MobX & GetIt İle Yukarılara Uçuş — Part 4 (TR)](https://medium.com/flutter-students-club/mvvm-mobx-getit-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-4-eb9e74bfbad9)
  
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/sametcilingir/sametcilingir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sametcilingir" alt="Samet's GitHub Stats" />
-</a>
 
 
 ---
