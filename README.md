@@ -2,27 +2,6 @@
 
 Welcome to my digital playground! I'm Samet Cilingir, a passionate software engineer with a knack for crafting delightful experiences. Here's a sneak peek into my tech universe:
 
-## Technologies I'm Experienced In
-
-- **Material Design Principles**
-- **Dynamic Links**
-- **Git & GitHub**
-- **Localization for Multiple Languages**
-- **Offline Mode**
-- **Design Patterns (MVVM, MVC, Repository, Entity)**
-- **Multiple Themes (Light & Dark)**
-- **Push Notifications**
-- **RESTApi & GraphQL & JSON & XML Integration**
-- **Remote Database and Storage**
-- **State Management (MobX, GetX, Bloc, Provider)**
-- **Dependency Injection (Get_It & Injectable)**
-- **Maps**
-- **Firebase and AWS Amplify**
-- **Local Storage (Hive)**
-- **Hosting (For web)**
-- **Connection with Facebook, Google, Twitter**
-- **Router (Go Router)**
-
 ## 🚀 Projects
 
 ### [Online Tombala](https://github.com/sametcilingir/Online-Tombala)
